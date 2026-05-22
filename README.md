@@ -7,10 +7,9 @@
 ---
 
 ---
-
 ## 시연 영상
 
-[![시연 영상]https://www.youtube.com/watch?v=CJzTn2X7HtQ
+[시연 영상 보기](https://www.youtube.com/watch?v=CJzTn2X7HtQ)
 
 ---
 
