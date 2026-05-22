@@ -10,7 +10,6 @@
 
 ## 시연 영상
 
-<!-- YouTube 업로드 후 아래 링크를 교체해 주세요 -->
 [![시연 영상]https://www.youtube.com/watch?v=CJzTn2X7HtQ
 
 ---
