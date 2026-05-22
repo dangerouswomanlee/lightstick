@@ -2,26 +2,16 @@
 
 손 인식으로 3D 응원봉을 AR로 체험하는 웹 앱입니다.
 
-**[라이브 데모 →](https://dancing-taiyaki-2e0711.netlify.app/)**
+**(https://dancing-taiyaki-2e0711.netlify.app/)**
 
 ---
-
-## 미리보기
-
-<!-- 캡처 가이드:
-  - 웹캠 배경에 손을 올려 응원봉이 나타난 장면
-  - 조명(발광/점멸/무지개) 효과가 켜진 상태
-  - NewJeans 또는 NCT 버전 중 더 잘 나온 것으로
-  촬영 후 assets/preview.png 로 저장해 주세요.
--->
-![미리보기](assets/preview.png)
 
 ---
 
 ## 시연 영상
 
 <!-- YouTube 업로드 후 아래 링크를 교체해 주세요 -->
-[![시연 영상](https://img.shields.io/badge/YouTube-시연영상-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![시연 영상](https://www.youtube.com/watch?v=CJzTn2X7HtQ)
 
 ---
 
