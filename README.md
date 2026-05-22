@@ -2,7 +2,7 @@
 
 손 인식으로 3D 응원봉을 AR로 체험하는 웹 앱입니다.
 
-**[라이브 데모 →](https://dangerouswomanlee.github.io/lightstick)**
+**[라이브 데모 →](https://dancing-taiyaki-2e0711.netlify.app/)**
 
 ---
 
